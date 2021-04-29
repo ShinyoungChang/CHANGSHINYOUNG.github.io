@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "장신영"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/아바타.png"
   bio              : ""
   location         : "대한민국"
   email            :
