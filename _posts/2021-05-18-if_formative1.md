@@ -22,7 +22,8 @@ int main(void)
  else 
  printf("당신의 사주는 그럭저럭입니다.\n"); 
  return 0; 
-}~~~ 
+}
+~~~ 
 ### 02. 3개의 터널 통과 
 ![2](/assets/images/2.jpg) 
 ~~~c 
