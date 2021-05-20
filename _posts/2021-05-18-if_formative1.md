@@ -19,13 +19,10 @@ int main(void)
  result=(year-month+day)%10; 
  if(result==0) 
  printf("당신의 사주는 대박입니다.\n");
-4. github 블로그 목차와 카테고리.hwp 3 
  else 
  printf("당신의 사주는 그럭저럭입니다.\n"); 
  return 0; 
 }~~~ 
-
----  
 ### 02. 3개의 터널 통과 
 ![2](/assets/images/2.jpg) 
 ~~~c 
