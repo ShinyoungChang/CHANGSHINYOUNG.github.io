@@ -45,7 +45,7 @@ int main(void)
 }
 ~~~ 
 ### 03. 이 달은 며칠까지 있을까? 
-![3](/assets/images/3.jpg) 
+![callenderl](/assets/images/if3.jpg) 
 ~~~c 
 #include <stdio.h> 
 int main(void) 
@@ -60,11 +60,13 @@ int main(void)
  printf("30일"); 
  else 
  { 
- if((year%4==0 && year%100!=0) || year%400==0) 
- printf("29일");
+ if((year%4==0 && year%100!=0) || year%400==0)
+  printf("29일"); 
  else 
  printf("28일"); 
  } 
  printf("입니다.\n"); 
  return 0; 
 }
+~~~ 
+
