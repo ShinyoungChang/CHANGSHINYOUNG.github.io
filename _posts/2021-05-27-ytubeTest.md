@@ -1,5 +1,5 @@
 ---
 layout: single
-title: "유튜브 동영상 삽입하기"
+title: "music"
 ---
 {% include video id="y5paOQU66hg" provider="youtube" %}
